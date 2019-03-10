@@ -8,6 +8,6 @@ This is an _example_ of creating a scenario and running a **command**
 
 After this go ahead and print it out
 
-`cat ./AA` {{execute}}
+`cat ./AA`{{execute}}
 
 We be done.
